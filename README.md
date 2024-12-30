@@ -1,4 +1,7 @@
 # Sudarshan
 This is my first Repository
 <br>
-By Sudarshan Tambe....
+By Sudarshan 
+<br>
+Tambe....
+
