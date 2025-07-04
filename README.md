@@ -1,39 +1,68 @@
+<h1 align="center">Hi 👋, I'm Sudarshan Tambe</h1>
+<h3 align="center">Full-Stack Developer in training | Final-year IT Student | Networking Enthusiast</h3>
 
-My <a href="https://www.linkedin.com/in/sudarshan-tambe"><b>Linkedin<b></a> Profile 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder-gif">
+</p>
 
-# 👋 Hello! I'm Sudarshan Tambe
-
-🎓 Final-year **B.E. (Information Technology)** student  
-💻 Full-Stack Developer | 🧠 Lifelong Learner | 🌐 Networking Enthusiast  
-
-I'm passionate about solving real-world problems using code.  
-Currently focused on building scalable, user-centric web applications and exploring system design, caching, and AI integration.
-
----
-
-## 🚀 Tech Stack  
-- **Backend**: Java (Spring Boot) ☕, Python (FastAPI) 🐍  
-- **Frontend**: JavaScript ⚡, React ⚛️  
-- **Database**: MySQL 🛢️, MongoDB 🍃  
-- **DevOps & Tools**: Docker 🐳, Git 🔧, GitHub Actions ⚙️  
-- **Others**: Redis 🚀 (caching), Linux 🐧 (daily driver), REST APIs 🌐  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudarshan-hash&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-hash" />
+  <img src="https://img.shields.io/github/followers/sudarshan-hash?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/sudarshan-hash?style=social" alt="stars" />
+</p>
 
 ---
 
-## 💼 What I Bring  
-- ✅ Strong understanding of Networking & OS fundamentals  
-- ✅ Hands-on with real-world tools & tech stacks  
-- ✅ Passion for clean code, open source, and continuous improvement
+## 🧑‍💻 About Me
+
+- 🎓 Final-year B.E. (Information Technology) student  
+- 🚀 Passionate about backend, Linux, and DevOps  
+- 🌱 Currently exploring **Redis**, **Spring Boot**, and **system design**
+- 📚 Learning one step at a time with a build-first mindset
 
 ---
 
-## 🤝 Let’s Connect!  
+## ⚒️ Tech Stack
+
+### 🚀 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛢️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshan-hash&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-hash&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan-hash&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
 I'm open to:
 - 🔍 Internship opportunities  
-- 🤝 Collaborations on cool projects  
-- 💬 Tech discussions and knowledge sharing
+- 🤝 Collaborations on beginner-friendly projects  
+- 💬 Tech discussions and peer learning
 
-📌 Check out my  repositories to see my work in action!
-
----
