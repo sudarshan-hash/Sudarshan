@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Tambe</h1>
-<h3 align="center">Full-Stack Developer in training | Final-year IT Student | Networking Enthusiast</h3>
+<h3 align="center">Java Script Developer | React Developer | Frontend Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder-gif">
@@ -16,8 +16,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year B.E. (Information Technology) student  
-- 🚀 Passionate about backend, Linux, and DevOps  
-- 🌱 Currently exploring **Redis**, **Spring Boot**, and **system design**
+- 🚀 Passionate about web development,  backend, Linux, and DevOps  
+- 🌱 Currently exploring **React**, **Redux**, and **system design**
 - 📚 Learning one step at a time with a build-first mindset
 
 ---
@@ -27,8 +27,6 @@
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 💻 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
